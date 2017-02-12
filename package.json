@@ -1,7 +1,7 @@
 {
   "name": "react-project",
   "version": "1.0.0",
-  "description": "<description of project>",
+  "description": "React package.json Boiler",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server"

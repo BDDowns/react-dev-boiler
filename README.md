@@ -1,1 +1,1 @@
-#BoilerPlate for a Reactjs Development Environment#
+#Boilerplate for a Reactjs Development Environment#
